@@ -271,7 +271,7 @@ def game_loop():
         # Events
         for event in pygame.event.get():  
             if event.type == pygame.QUIT:
-                message_display('Fuck You', 1) 
+                message_display('Thank You', 1) 
                 Quit()
 
             if event.type == pygame.KEYDOWN:
