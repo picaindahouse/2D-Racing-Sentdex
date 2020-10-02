@@ -2,4 +2,4 @@
 2D Racing Car Game made by following by Sentdex 
 
 
-Go to the file and then click on FINALVERSION.py to play
+Added moving background
